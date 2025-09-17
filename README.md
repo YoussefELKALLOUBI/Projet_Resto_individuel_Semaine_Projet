@@ -1,4 +1,5 @@
 # PhpProjectResto2021
+<img width="960" height="637" alt="image" src="https://github.com/user-attachments/assets/0c948b78-8a29-4e02-a69c-f73e170260a7" />
 
 AP 2SLAM - projet du premier semestre
 Contexte
